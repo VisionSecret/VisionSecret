@@ -1,3 +1,4 @@
+![logo](https://github.com/VisionSecret/VisionSecret/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm VisionSecret</h1>
 <h3 align="center">Driven Frontend Developer | Passionate About Crafting Exceptional User Experiences | Based in Pakistan</h3>
 
